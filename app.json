@@ -6,7 +6,6 @@
   "keywords": ["stormpath", "angular", "express", "authentication", "oauth", "login", "registration", "user", "password", "security"],
   "success_url": "/",
   "addons": [
-    "stormpath",
-    "stormpath.templates"
+    "stormpath"
   ]
 }
